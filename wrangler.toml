@@ -6,4 +6,5 @@ workers_dev = true
 compatibility_date = "2025-03-26"
 
 [build]
+command = "npm install"
 upload.format = "modules"
